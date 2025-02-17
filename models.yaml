@@ -41,6 +41,7 @@
       system_prompt_prefix: Formatting re-enabled
       patch:
         body:
+          reasoning_effort: high
           max_tokens: null
           temperature: null
           top_p: null
